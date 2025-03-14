@@ -1,4 +1,4 @@
-# Awesome Image to Video AI - 2024
+# Awesome Image to Video AI - 2025
 - **Pictory** - Converts text, URLs, or PowerPoint into professional videos with AI voiceovers and auto-captions, ideal for creators and businesses. [https://www.pictory.ai/](https://www.pictory.ai/)
 - **InVideo** - An AI-powered video editing platform with templates and stock media, great for beginners and pros alike. [https://invideo.io/](https://invideo.io/)
 - **Synthesia** - Creates videos with AI avatars and voiceovers, supporting 140+ languages, perfect for training and marketing. [https://www.synthesia.io/](https://www.synthesia.io/)
